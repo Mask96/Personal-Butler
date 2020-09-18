@@ -1,8 +1,11 @@
-package com.example.PersonalButler;
+package com.example.personalbutler;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author Mask
+ */
 @SpringBootApplication
 public class PersonalButlerApplication {
 

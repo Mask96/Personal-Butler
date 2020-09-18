@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.PersonalButler.PersonalButlerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.693 s <<< FAILURE! - in com.example.PersonalButler.PersonalButlerApplicationTests
+jpaLoads  Time elapsed: 0.242 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at com.example.PersonalButler.PersonalButlerApplicationTests.jpaLoads(PersonalButlerApplicationTests.java:24)
+
